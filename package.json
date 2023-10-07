@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-nuxt",
+  "version": "1.0.0",
+  "description": "Shared config for nuxt development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chika3742/eslint-config-nuxt.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/chika3742/eslint-config-nuxt#readme",
+  "peerDependencies": {
+    "eslint": "^8"
+  }
+}
