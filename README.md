@@ -6,10 +6,10 @@ Shared config for nuxt development
 
 ### Yarn
 ```bash
-yarn add -D eslint-config-nuxt@https://github.com/chika3742/eslint-config-nuxt#main
+yarn add -D eslint-config-nuxt@github:chika3742/eslint-config-nuxt
 ```
 
 ### Bun
 ```bash
-bun add -D eslint-config-nuxt@https://github.com/chika3742/eslint-config-nuxt#main
+bun add -D eslint-config-nuxt@github:chika3742/eslint-config-nuxt
 ```
